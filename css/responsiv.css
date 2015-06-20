@@ -1,0 +1,37 @@
+/* Default Layout: 992px.  */
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) {
+.slicknav_menu {
+	display:none;
+}
+    
+}
+
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+.slicknav_menu {
+	display:block;
+}
+    .nav{
+    display: none;
+    }
+}
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.slicknav_menu {
+	display:block;
+}
+    .nav{
+    display: none;
+    }
+}

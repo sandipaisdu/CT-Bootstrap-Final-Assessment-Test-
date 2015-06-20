@@ -1,0 +1,200 @@
+*{
+margin:0;
+padding:0;
+}
+iframe{
+width: 100%;
+}
+body{
+font-family: 'Lato', sans-serif;
+}
+
+header{
+    min-height: 70px;
+    line-height: 70px;
+}
+.logo {
+  margin-top: 25px;
+}
+header ul{
+margin: 0;
+    padding: 0;
+    list-style: none;
+}
+header ul li{
+display: inline;
+    
+}
+header ul li a{
+padding: 10px 20px;
+text-decoration: none;
+    color: #82868f;
+}
+header ul li a:hover{
+color: #fff;
+    background: #0ebfdd;
+    text-decoration: none;
+-webkit-border-radius: 5px;
+}
+
+
+
+
+.slider_area {
+
+}
+.slider_area img{
+min-width: 100%;
+}
+.slider_image{
+padding-left: 0px !important;
+padding-right: 0px !important;
+
+}
+
+
+
+
+.about{
+min-height: 200px;
+}
+
+.about p{
+
+font-size: 20px;
+    
+}
+.about h2{
+color: #0ebfdd;
+    font-weight: 700;
+}
+
+
+
+
+
+.team{
+background: #0ebfdd;
+    min-height: 600px;
+}
+
+.team h2{
+color:#fff;
+    font-weight: 700;
+    margin-bottom: 30px;
+    
+}
+.team h4{
+color:#fff;
+    font-weight: 700;
+
+    
+}
+
+
+.team h4 span{
+color:#fff;
+    font-weight: normal;
+    font-style: italic;
+
+    
+}
+.team a{
+    color:#fff;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+margin-top: 20px;
+
+    
+}
+.team img{
+height: 375px;
+  min-width: 100%;
+  border-radius: 50%;
+}
+.members{
+
+margin-bottom: 30px;
+}
+.button{
+padding-bottom: 40px;
+}
+
+
+
+
+
+
+.map_area{
+padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+
+
+
+
+
+
+
+.footer_top{
+
+background: #45494d;
+    min-height: 100px;
+    line-height: 100px;
+}
+.footer_top ul{
+margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.footer_top ul li{
+display: inline;
+
+}
+.footer_top ul li a{
+color:#fff;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+.footer_top ul li a:hover{}
+
+
+.socials i{
+
+color: #fff;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    border:1px solid #fff;
+    text-align: center;
+    line-height: 50px;
+    font-weight: bold;
+}
+
+.footer_bottom{
+background: #45494d;
+      min-height: 50px;
+}
+.footer_bottom ul{
+margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.footer_bottom ul li{
+display: inline;
+}
+.footer_bottom ul li a{
+padding: 10px;
+    color:#fff;
+    
+}
+.footer_bottom ul li a:hover{}
+
+
